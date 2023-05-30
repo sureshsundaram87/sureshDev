@@ -5,3 +5,6 @@ suresh dev
 3.final screen
 4.images,videos and other miscellaneous
 hiding the lastmade changes
+adding the audio calls
+adding the video calls
+finally will think to add if I miss any
