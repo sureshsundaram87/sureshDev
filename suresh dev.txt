@@ -8,3 +8,4 @@ hiding the lastmade changes
 adding the audio calls
 adding the video calls
 finally will think to add if I miss any
+adding the train features
